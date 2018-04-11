@@ -1,0 +1,297 @@
+<link rel="stylesheet" href="https://i.icomoon.io/public/3a97db2d4b/ss-marketing/style.css">
+<link rel="stylesheet" href="https://sharpspring.com/landing_pages/2017/get-a-demo/V3/style.css">
+
+<section class="vt-section pt-xx pb-xx pt-xs-180 pb-xs-180 pt-xs pb-xs tint tint-bg"
+style="top: 0px; left: 0px; background-image: url(&quot;https://ss-lp-uploads.s3.amazonaws.com/c/724993/landingPage/5ac11688637af/photo-1522202176988-66273c2fd55f.jpg&quot;); background-size: cover; background-position: center center; transition: all 0.3s ease; background-repeat: no-repeat;">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6 inner-col">
+        <p class="vt-content-editable">
+
+        </p>
+
+
+
+        <p class="vt-content-editable">
+          <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca7b2950cc1/logo-placeholder.png"
+          alt="placeholder" class="fr-dib" width="220" height="71" data-constrain="0">
+        </p>
+        <h1 class="mb0 vt-content-editable  bold italic text-align-left">
+          <span style="font-size: 48px; font-family: Verdana, Geneva, sans-serif;">Desperte o interesse com um título</span>
+        </h1>
+
+
+
+
+        <p class="lead vt-content-editable mb0">“[customers will unconsciously trust and bond with you because you are
+          clear, give them info to say “I want to know more.”]”</p>
+      </div>
+      <div class="col-md-5 formcol" style="z-index:9999;">
+        <div class="inner-col">
+          <div class="feature boxed formposition ss-form form-email text-align-center" style="min-height: 463px;">
+            <p class="vt-content-editable form-heading text-align-center">
+              <span style="font-size: 30px; color: rgb(239, 239, 239);">Agende uma conversa</span>
+            </p>
+            <br>
+            <br>
+            <img src="//storage.googleapis.com/sharpspring-editor/stock/form-placeholder-ss.png"
+            alt="placeholder" class="fr-dib" width="285" height="285" data-constrain="1">
+            <br>
+            <br>
+            <p class="trust">
+              <img src="https://ss-lp-uploads.s3.amazonaws.com/314dd8c9-405f-412f-b5b8-1aeaf5f26035.png"
+              style="width: 20px;margin-right: 5px; color: rgb(243, 121, 52);">Estamos comprometidos em não compartilhas os seus dados.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</section>
+
+<section class="vt-section fr-view reviews" data-item-sortable-id="0" style="background:rgb(243, 241, 244);padding-bottom:0;">
+
+  <div class="container">
+    <div class="row" data-sortable-id="7">
+      <div class="inner-col">
+        <h2 class="vt-content-editable text-align-center" style="margin-bottom:0px;">
+          <span style="font-size: 30px;">Como podemos ajudá-lo:</span>
+        </h2>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="vt-section fr-view" style="background:rgb(243, 241, 244);">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 hidden-sm hidden-xs">
+        <div class="inner-col"></div>
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-12">
+        <div class="inner-col text-align-center">
+          <p class="vt-content-editable">
+            <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca73185b4fd/icon-1.png"
+            alt="placeholder" class="fr-dib" width="104" height="105" data-constrain="0">
+          </p>
+          <p class="vt-content-editable m40 text-align-center" style="display: block;">
+            <span>Gere mais leads</span>
+          </p>
+        </div>
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-12">
+        <div class="inner-col text-align-center">
+          <p class="vt-content-editable">
+            <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca73798d901/icon-2.png"
+            alt="placeholder" class="fr-dib" width="104" height="105" data-constrain="0">
+          </p>
+          <p class="vt-content-editable m40 text-align-center" style="display: block;">
+            <span>Converta leads em vendas</span>
+          </p>
+        </div>
+      </div>
+
+      <div class="col-md-2 col-sm-4 col-xs-12">
+        <div class="inner-col text-align-center">
+          <p class="vt-content-editable">
+            <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca739f2ed93/icon-3.png"
+            alt="placeholder" class="fr-dib" width="104" height="105" data-constrain="0">
+          </p>
+          <p class="vt-content-editable m40 text-align-center" style="display: block;">
+            <span>Comprove o seu ROI</span>
+          </p>
+        </div>
+      </div>
+
+      <div class="col-md-3 hidden-sm hidden-xs">
+        <div class="inner-col"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="vt-section alternate-bg" style="display: block; background-color: rgb(255, 255, 255);"
+data-item-sortable-id="0">
+  <div class="container">
+    <div class="row v-align-children" data-sortable-id="13">
+      <div class="col-md-4 col-md-offset-1 col-sm-5 col-sm-offset-1 inner-col">
+        <h2 class="vt-content-editable text-align-left">
+          <span style="color: rgb(0, 0, 0);">Gere mais leads. Converta-os em vendas. Comprove o seu ROI.</span>
+        </h2>
+        <div class="vt-content-editable">
+          <ul class="">
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. &nbsp;</li>
+            <li>Nulla vitae lorem nec est rhoncus volutpat sit amet commodo odio.&nbsp;</li>
+            <li>Aenean accumsan efficitur dolor quis pellentesque.</li>
+          </ul>
+        </div><a class="btn btn-filled btn-round btn-align-center btn-md" href="#top"
+        id="btn_deda37a7_e7f2_489f_99d1_0b3aebce1af4">Agende uma conversa</a>
+      </div>
+      <div class="col-md-7 col-sm-6 text-center mb-xs-24 inner-col">
+        <p class="vt-content-editable text-align-left pt-xs pl-xs mt-xs ml-xs">
+          <span class="fr-video fr-dvb" contenteditable="false">
+            <iframe src="//www.youtube.com/embed/tEkSw_dbeQA?wmode=opaque" allowfullscreen=""
+            width="640" height="360" frameborder="0"></iframe>
+          </span>
+        </p>
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+<section class="vt-section image-square right" style="background-color: rgb(243, 241, 244);">
+  <div class="vt-section col-md-6 inner-col image" style="background-image: url(&quot;https://ss-lp-uploads.s3.amazonaws.com/c/724993/landingPage/5ac11688637af/photo-1522202176988-66273c2fd55f.jpg&quot;); background-size: cover; background-position: center center; transition: all 0.3s ease; background-repeat: no-repeat;">
+
+  </div>
+  <div class="col-md-6 content inner-col">
+    <h2 class="vt-content-editable">Sobre a {NomedaEmpresa}</h2>
+    <p class="vt-content-editable mb0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae lorem
+      nec est rhoncus volutpat sit amet commodo odio. Aenean accumsan efficitur
+      dolor quis pellentesque. Nulla facilisi. Quisque neque nisi, dapibus sit
+      amet egestas accumsan, consectetur et ante.&nbsp;</p>
+  </div>
+</section>
+<section class="vt-section">
+  <div class="container">
+    <div class="row mb-lg mb-xs-24">
+      <div class="col-md-10 col-md-offset-1 col-sm-12 text-center vt-content-editable">
+        <h2>Veja os depoimentos dos clientes que acreditam em nossa plataforma.&nbsp;</h2>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-4 text-center inner-col">
+        <div class="feature boxed img-shadow-light">
+          <p class="vt-content-editable">
+            <img alt="Alt Tag" class="img-sm fr-dib img-circle fr-dib inline-block mb-xs2"
+            src="//storage.googleapis.com/sharpspring-editor/stock/users/avatar-3.jpg">
+          </p>
+          <h4 class="vt-content-editable">"5 Stars for this product"</h4>
+          <p class="vt-content-editable">
+            Conversion formula for testimonials: Specific end result or benefit customer got
+            + Specific Period of time + Accompanied Feeling
+          </p>
+          <span class="vt-content-editable ">
+            <strong>[Full Name]</strong> - via [Company]
+          </span>
+        </div>
+      </div>
+      <div class="col-sm-4 text-center inner-col">
+        <div class="feature boxed img-shadow-light">
+          <p class="vt-content-editable">
+            <img alt="Alt Tag" class="img-sm fr-dib img-circle fr-dib inline-block mb-xs2"
+            src="//storage.googleapis.com/sharpspring-editor/stock/users/avatar-4.jpg">
+          </p>
+          <h4 class="vt-content-editable">"Amazing Service"</h4>
+          <p class="vt-content-editable">
+            Conversion formula for testimonials: Specific end result or benefit customer got
+            + Specific Period of time + Accompanied Feeling
+          </p>
+          <span class="vt-content-editable">
+            <strong>[Full Name]</strong> - via [Company]
+          </span>
+        </div>
+      </div>
+      <div class="col-sm-4 text-center inner-col">
+        <div class="feature boxed img-shadow-light">
+          <p class="vt-content-editable">
+            <img alt="Alt Tag" class="img-sm fr-dib img-circle fr-dib inline-block mb-xs2"
+            src="//storage.googleapis.com/sharpspring-editor/stock/users/avatar-5.jpg">
+          </p>
+          <h4 class="vt-content-editable">"Money Saver!"</h4>
+          <p class="vt-content-editable">
+            Conversion formula for testimonials: Specific end result or benefit customer got
+            + Specific Period of time + Accompanied Feeling
+          </p>
+          <span class="vt-content-editable ">
+            <strong>[Full Name]</strong> - via [Company]
+          </span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</section>
+<section style="background-color: rgb(243, 241, 244); background-image: url(&quot;&quot;);"
+class="vt-section fr-view sm-align-center">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2 xs-hidden">
+      </div>
+      <div class="col-md-6 sm-align-center">
+        <div class="inner-col">
+
+          <div class="dynamic-wrap">
+
+            <h3 class="vt-content-editable" data-rulegroup-id="569346" data-segment-id="default"
+            style="display: block;">Entenda como podemos gerar e comprovar
+              <br>resultado para o seu negócio.</h3>
+
+            <h3 style="display: none;" class="vt-content-editable" data-rulegroup-id="569346"
+            data-segment-id="1340418">See how agencies like yours are
+              <br>producing results with SharpSpring.</h3>
+
+            <h3 style="display: none;" class="vt-content-editable" data-rulegroup-id="569346"
+            data-segment-id="1341442">See how business like yours are
+              <br>producing results with SharpSpring.</h3>
+
+          </div>
+
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="inner-col">
+
+          <a href="#top" class="btn btn-filled btn-align-center btn-round btn-xxl" id="btn_f4be2848_d757_4f12_b108_a5397aa10e77">Agende uma conversa</a></div>
+      </div>
+      <div class="col-md-2 xs-hidden">
+      </div>
+    </div>
+  </div>
+</section>
+<div class="iframe-cover" style="position: absolute; width: 0px; height: 0px; top: 0px; left: 0px;"></div>
+<section class="vt-section fr-view bkg-gradient" style="padding: 37px 0px; background-image: url(&quot;&quot;); background-color: rgb(55, 54, 72);"
+data-item-sortable-id="0">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3">
+        <div class="inner-col">
+          <p class="vt-content-editable text-align-center">
+            <span style="color: rgb(239, 239, 239);">Nome da empresa © 2018</span>
+          </p>
+          <ul class="list-inline text-align-center">
+            <li class="vt-content-editable">
+              <a class="image-wrapper" href="http://facebook.com" data-rulegroup-id="undefined"
+              data-segment-id="undefined">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca82cd6e204/icon-fb.png"
+                alt="placeholder" class="fr-dib" width="29" height="29" data-constrain="1">
+              </a>
+            </li>
+            <li class="vt-content-editable">
+              <a class="image-wrapper" href="http://linkedin.com" data-rulegroup-id="undefined"
+              data-segment-id="undefined">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca834aa1d4e/icon-in.png"
+                alt="placeholder" class="fr-dib" width="29" height="29" data-constrain="1">
+              </a>
+            </li>
+            <li class="vt-content-editable">
+              <a class="image-wrapper" href="http://twitter.com" data-rulegroup-id="undefined"
+              data-segment-id="undefined">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca8355c1b11/icon-twitter.png"
+                alt="placeholder" class="fr-dib btn-align-none" width="29" height="29"
+                data-constrain="1">
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
