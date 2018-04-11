@@ -1,0 +1,415 @@
+<link rel="stylesheet" href="https://i.icomoon.io/public/3a97db2d4b/ss-marketing/style.css">
+<link rel="stylesheet" href="https://sharpspring.com/landing_pages/2017/get-a-demo/V3/style.css">
+
+
+
+<section class="vt-section fr-view pt-xs pb-xs" style="display: block; padding: 10px; background-color: rgb(247, 247, 247);">
+
+  <div class="container">
+    <div class="row" data-sortable-id="9">
+      <div class="col-md-3">
+        <div class="inner-col" style="min-height:0px;">
+          <p class="vt-content-editable" style="margin:0px;">
+
+            <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca7b2950cc1/logo-placeholder.png"
+            alt="logo" class="fr-dib vt-content-editable" data-constrain="1" height=""
+            width="150">
+
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="top" class="vt-section fr-view bkg-gradient" style="padding:37px 0;"
+data-item-sortable-id="0">
+  <br>
+  <br>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7">
+        <div class="inner-col">
+          <h1 class="vt-content-editable text-align-left" data-rulegroup-id="569346" data-segment-id="default"
+          style="display: block; color: white;">Desperte o interesse com um título</h1>
+        </div>
+        <div class="dynamic-wrap">
+          <p class="vt-content-editable">
+          </p>
+          <p class="vt-content-editable">
+            <span class="subhead vt-content-editable" data-rulegroup-id="569346"
+            data-segment-id="default" style="display: block; color: rgb(239, 239, 239);">Assista abaixo: Como conseguir os melhores resultados com o Inbound
+              Marketing &nbsp;</span>
+          </p>
+          <p></p>
+          <p class="vt-content-editable">
+            <span class="fr-video fr-dvb dynamic-wrap" contenteditable="false">
+              <iframe width="640" height="360" src="//www.youtube.com/embed/tEkSw_dbeQA?wmode=opaque"
+              frameborder="0" allowfullscreen=""></iframe>
+            </span>
+          </p>
+        </div>
+      </div>
+      <div class="col-md-5 formcol" style="z-index:9999;">
+        <div class="inner-col">
+          <div class="white-background formposition ss-form form-email" style="min-height: 463px;">
+
+
+
+
+
+            <p class="vt-content-editable form-heading text-align-center">
+              <span style="font-size: 22px; color: rgb(243, 121, 52);">Fale com um especialista</span>
+            </p>
+
+
+
+
+
+            <br>
+            <br>
+            <img src="//storage.googleapis.com/sharpspring-editor/stock/form-placeholder-ss.png"
+            alt="placeholder" class="fr-dib" width="285" height="285" data-constrain="1">
+            <br>
+            <br>
+            <p class="trust">
+              <img src="https://ss-lp-uploads.s3.amazonaws.com/314dd8c9-405f-412f-b5b8-1aeaf5f26035.png"
+              style="width: 20px;margin-right: 5px;">Estamos comprometidos em não compartilhas os seus dados.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+</section>
+<section class="vt-section fr-view reviews" data-item-sortable-id="0" style="background:rgb(243, 241, 244);padding-bottom:0;">
+
+  <div class="container">
+    <div class="row" data-sortable-id="7">
+      <div class="inner-col">
+        <h2 class="vt-content-editable text-align-center" style="margin-bottom:0px;">
+          <span style="font-size: 30px;">Como podemos ajudá-lo:</span>
+        </h2>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="vt-section fr-view" style="background:rgb(243, 241, 244);">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 hidden-sm hidden-xs">
+        <div class="inner-col"></div>
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-12">
+        <div class="inner-col text-align-center">
+          <p class="vt-content-editable">
+            <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca73185b4fd/icon-1.png"
+            alt="placeholder" class="fr-dib" width="104" height="105" data-constrain="0">
+          </p>
+          <p class="vt-content-editable m40 text-align-center" style="display: block;">
+            <span>Gere mais leads</span>
+          </p>
+        </div>
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-12">
+        <div class="inner-col text-align-center">
+          <p class="vt-content-editable">
+            <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca73798d901/icon-2.png"
+            alt="placeholder" class="fr-dib" width="104" height="105" data-constrain="0">
+          </p>
+          <p class="vt-content-editable m40 text-align-center" style="display: block;">
+            <span>Converta leads em vendas</span>
+          </p>
+        </div>
+      </div>
+
+      <div class="col-md-2 col-sm-4 col-xs-12">
+        <div class="inner-col text-align-center">
+          <p class="vt-content-editable">
+            <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca739f2ed93/icon-3.png"
+            alt="placeholder" class="fr-dib" width="104" height="105" data-constrain="0">
+          </p>
+          <p class="vt-content-editable m40 text-align-center" style="display: block;">
+            <span>Comprove o seu ROI</span>
+          </p>
+        </div>
+      </div>
+
+      <div class="col-md-3 hidden-sm hidden-xs">
+        <div class="inner-col"></div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="vt-section fr-view mb-xs pb-md">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="inner-col">
+
+
+          <div class="row">
+            <div class="col-md-12">
+              <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+
+                <!-- Carousel Slides / Quotes -->
+                <div class="carousel-inner">
+
+
+                  <!--Quote 1 Agency -->
+                  <div class="dynamic-wrap">
+
+                    <!-- Quote 1 Direct -->
+                    <div class="item active" data-rulegroup-id="569346" data-segment-id="default" style="display: block;">
+                      <div class="row">
+                        <div class="col-sm-12">
+                          <h3 class="vt-content-editable text-align-center">"Uma incrível plataforma de automação de marketing! Intuitiva,
+                            simples e poderosa! Além de uma grande vantagem e fator
+                            decisivo para o sucesso: um especialista da SharpSpring
+                            sempre nos apoiando."</h3>
+                          <h3 class="vt-content-editable text-align-center" style="color: rgb(114, 187, 83);">Renato Nascimento, Nome da Empresa</h3>
+
+                          <p class="vt-content-editable text-align-left">
+                            <img src="http://arizonachristian.edu/wp-content/uploads/2017/06/logo-placeholder.png"
+                            alt="bright dials" class="fr-dib btn-align-center"
+                            data-constrain="1" height="" width="150">
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+
+                    <div class="item active" data-rulegroup-id="569346" data-segment-id="1340418" style="display: none;">
+                      <div class="row">
+                        <div class="col-sm-12">
+                          <h3 class="vt-content-editable text-align-center">
+
+                            <span style="color:#f17232;font-weight: 600;">"Do the demo.</span> SharpSpring transformed how we
+                            build our client relationships. This software has literally
+                            changed our company."
+
+                          </h3>
+                          <h3 class="vt-content-editable text-align-center" style="color: rgb(114, 187, 83);">
+                            Susan Aldea, Co-Owner of Go Left Marketing
+                          </h3>
+
+                          <p class="vt-content-editable">
+                            <!--<img src="https://ss-lp-uploads.s3.amazonaws.com/fcb394da-2630-4ced-9797-98180ecaefb8.png"-->
+                            <!--alt="placeholder" class="fr-dib btn-align-center img-circle"-->
+                            <!--width="100" height="" data-constrain="1">-->
+                            <img src="https://ss-lp-uploads.s3.amazonaws.com/f4e99fb3-4e9f-43a6-9fd9-307c9e9d180f"
+                            alt="go left marketing" class="fr-dib btn-align-center"
+                            width="150">
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+
+                    <div class="item active" data-rulegroup-id="569346" data-segment-id="1341442" style="display: none;">
+                      <div class="row">
+                        <div class="col-sm-12">
+                          <h3 class="vt-content-editable text-align-center">
+
+                            "SharpSpring connects everything together and saves a huge amount of time.
+                            <span style="color:#f17232;font-weight: 600;">There's no better platform out there</span> in terms
+                            of price, features, flexibility and scale."
+
+                          </h3>
+                          <h3 class="vt-content-editable text-align-center" style="color: rgb(114, 187, 83);">
+                            Lindsey Pickles, Bright Dials
+                          </h3>
+
+                          <p class="vt-content-editable">
+                            <img src="https://ss-lp-uploads.s3.amazonaws.com/d377caf5-c89e-4285-910b-6c463583b6d0.png"
+                            alt="bright dials" class="fr-dib btn-align-center"
+                            width="150">
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="vt-section fr-view pt-s pb-s" style="background-color: rgb(243, 241, 244);">
+
+
+  <!--Direct Value Prop-->
+  <div class="container agency-value-prop text-xs-center">
+    <div class="row" style="margin-top: 0px; margin-bottom: 50px;">
+      <div class="col-md-6 col-sm-6">
+        <div class="inner-col">
+          <div class="col-md-2" style="padding-left:0px;">
+            <div class="inner-col">
+              <p class="vt-content-editable">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca788066f83/icon-4.png"
+                alt="placeholder" class="fr-dib" width="67" height="" data-constrain="1">
+              </p>
+            </div>
+          </div>
+          <div class="col-md-10">
+            <div class="inner-col">
+              <h4 class="vt-content-editable">Baixo investimento</h4>
+              <p class="vt-content-editable">A fraction of the cost of competitors and no long term contaract.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-6 sm-align-center">
+        <div class="inner-col">
+          <div class="col-md-2" style="padding-left:0px;">
+            <div class="inner-col">
+              <p class="vt-content-editable">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca788f2bd3b/icon6.png"
+                alt="placeholder" class="fr-dib" width="67" height="" data-constrain="1">
+              </p>
+            </div>
+          </div>
+          <div class="col-md-10">
+            <div class="inner-col">
+              <h4 class="vt-content-editable">Plataforma completa</h4>
+              <p class="vt-content-editable">Get up and running quickly. Contextual help on every page of the
+                platform.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6 col-sm-6 sm-align-center">
+        <div class="inner-col">
+          <div class="col-md-2" style="padding-left:0px;">
+            <div class="inner-col">
+              <p class="vt-content-editable">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca7887e1662/Untitled-5.png"
+                alt="placeholder" class="fr-dib" width="67" height="" data-constrain="1">
+              </p>
+            </div>
+          </div>
+          <div class="col-md-10">
+            <div class="inner-col">
+              <h4 class="vt-content-editable">Atendimento personalizado</h4>
+              <p class="vt-content-editable">Phone and email support is 100% free. 100+ training videos. A dedicated
+                customer success manager.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-6 sm-align-center">
+        <div class="inner-col">
+          <div class="col-md-2" style="padding-left:0px;">
+            <div class="inner-col">
+              <p class="vt-content-editable">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca78947c282/icon-7.png"
+                alt="placeholder" class="fr-dib" width="67" height="67" data-constrain="1">
+              </p>
+            </div>
+          </div>
+          <div class="col-md-10">
+            <div class="inner-col">
+              <h4 class="vt-content-editable">Suporte ilimitado</h4>
+              <p class="vt-content-editable">Powerful native integrations plus an open API and universal CMS compatibility.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- END Direct - Value Prop -->
+  </div>
+</section>
+<section style="background-color: rgb(255, 255, 255);" class="vt-section fr-view sm-align-center">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2 xs-hidden">
+      </div>
+      <div class="col-md-6 sm-align-center">
+        <div class="inner-col">
+
+          <div class="dynamic-wrap">
+
+            <h3 class="vt-content-editable" data-rulegroup-id="569346" data-segment-id="default"
+            style="display: block;">Entenda como podemos gerar e comprovar
+              <br>resultado para o seu negócio.</h3>
+
+            <h3 style="display: none;" class="vt-content-editable" data-rulegroup-id="569346"
+            data-segment-id="1340418">See how agencies like yours are
+              <br>producing results with SharpSpring.</h3>
+
+            <h3 style="display: none;" class="vt-content-editable" data-rulegroup-id="569346"
+            data-segment-id="1341442">See how business like yours are
+              <br>producing results with SharpSpring.</h3>
+
+          </div>
+
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="inner-col">
+
+          <a href="#top" class="btn btn-filled btn-align-center btn-round btn-xxl" id="btn_f4be2848_d757_4f12_b108_a5397aa10e77">Fale com um especialista</a></div>
+      </div>
+      <div class="col-md-2 xs-hidden">
+      </div>
+    </div>
+  </div>
+</section>
+<div class="iframe-cover" style="position: absolute; width: 0px; height: 0px; top: 0px; left: 0px;"></div>
+<section class="vt-section fr-view bkg-gradient" style="padding: 37px 0px; background-image: url(&quot;&quot;); background-color: rgb(55, 54, 72);"
+data-item-sortable-id="0">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3">
+        <div class="inner-col">
+          <p class="vt-content-editable text-align-center">
+            <span style="color: rgb(239, 239, 239);">Nome da empresa © 2018</span>
+          </p>
+          <ul class="list-inline text-align-center">
+            <li class="vt-content-editable">
+              <a class="image-wrapper" href="http://facebook.com" data-rulegroup-id="undefined"
+              data-segment-id="undefined">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca82cd6e204/icon-fb.png"
+                alt="placeholder" class="fr-dib" width="29" height="29" data-constrain="1">
+              </a>
+            </li>
+            <li class="vt-content-editable">
+              <a class="image-wrapper" href="http://linkedin.com" data-rulegroup-id="undefined"
+              data-segment-id="undefined">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca834aa1d4e/icon-in.png"
+                alt="placeholder" class="fr-dib" width="29" height="29" data-constrain="1">
+              </a>
+            </li>
+            <li class="vt-content-editable">
+              <a class="image-wrapper" href="http://twitter.com" data-rulegroup-id="undefined"
+              data-segment-id="undefined">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca8355c1b11/icon-twitter.png"
+                alt="placeholder" class="fr-dib btn-align-none" width="29" height="29"
+                data-constrain="1">
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
