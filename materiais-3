@@ -1,0 +1,125 @@
+<link rel="stylesheet" href="https://i.icomoon.io/public/3a97db2d4b/ss-marketing/style.css">
+<link rel="stylesheet" href="https://sharpspring.com/landing_pages/2017/get-a-demo/V3/style.css">
+
+<section class="vt-section fr-view pt-xs pb-xs" style="display: block; padding: 10px; background-color: rgb(247, 247, 247);">
+
+  <div class="container">
+    <div class="row" data-sortable-id="9">
+      <div class="col-md-3">
+        <div class="inner-col" style="min-height:0px;">
+          <p class="vt-content-editable" style="margin:0px;">
+
+            <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca7b2950cc1/logo-placeholder.png"
+            alt="logo" class="fr-dib vt-content-editable" data-constrain="1" height=""
+            width="150">
+
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="vt-section fr-view" style="background-color: rgb(63, 176, 172);">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="inner-col">
+          <h1 class="vt-content-editable text-align-center" style="color: #173e43;">[Playbook] - Automação de Marketing</h1>
+          <h2 class="vt-content-editable text-align-center" style="color: #173e43;">Pense na automação de marketing como um time de futebol.</h2>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="form" class="vt-section fr-view bkg-gradient" style="padding: 37px 0px; background-color: rgb(221, 223, 212); background-image: url(&quot;&quot;);"
+data-item-sortable-id="0">
+  <br>
+  <br>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7">
+        <div class="inner-col">
+          <p class="vt-content-editable">
+            <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca97367f491/capa_pb.png"
+            alt="placeholder" class="fr-dib img-rounded btn-align-center" width="465"
+            height="358" data-constrain="1">
+          </p>
+          <p class="vt-content-editable mr-md text-align-left">Assim como administrar um time de futebol,
+            <strong> a automação também exige estratégia e planejamento</strong>. Lembre-se
+            que, além de fazer uma boa partida, você precisa encantar o público
+            e deixá-lo satisfeito. Neste e-book,
+            <strong>vamos mostrar que com a Automação de Marketing é possível segmentar
+              seu público</strong>, destinando informações conforme cada necessidade
+            dos clientes.</p>
+          <p class="vt-content-editable mr-md text-align-left">Pense na automação de marketing como um time de futebol. Você tem uma
+            multidão de torcedores, mas precisa
+            <strong>jogar bem</strong> para que eles lotem o estádio e retornem às arquibancadas.
+            Para isso acontecer,
+            <strong>é preciso entrosamento em campo</strong> e simpatia fora dele para
+            atrair o maior número de fãs.</p>
+
+        </div>
+
+      </div>
+      <div class="col-md-3 col-sm-6 col-sm-offset-1 text-center inner-col">
+        <div class="white-background">
+          <br>
+          <p class="vt-content-editable form-heading text-align-center">
+            <span style="font-size: 22px; color: rgb(243, 121, 52);">Faça o download do seu Playbook aqui!</span>
+          </p>
+          <div class="ss-form form-email">
+            <img src="//storage.googleapis.com/sharpspring-editor/stock/form-placeholder-ss.png"
+            alt="placeholder" class="fr-dib">
+          </div>
+          <p class="trust vt-content-editable">
+            <img src="https://ss-lp-uploads.s3.amazonaws.com/314dd8c9-405f-412f-b5b8-1aeaf5f26035.png"
+            style="width: 20px; margin-right: 5px;" class="">Estamos comprometidos em não compartilhas os seus dados.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+</section>
+<section class="vt-section fr-view bkg-gradient" style="padding: 37px 0px; background-image: url(&quot;&quot;); background-color: rgb(23, 62, 67);"
+data-item-sortable-id="0">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3">
+        <div class="inner-col">
+          <p class="vt-content-editable text-align-center">
+            <span style="color: rgb(239, 239, 239);">Nome da empresa © 2018</span>
+          </p>
+          <ul class="list-inline text-align-center">
+            <li class="vt-content-editable">
+              <a class="image-wrapper" href="http://facebook.com" data-rulegroup-id="undefined"
+              data-segment-id="undefined">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca82cd6e204/icon-fb.png"
+                alt="placeholder" class="fr-dib" width="29" height="29" data-constrain="1">
+              </a>
+            </li>
+            <li class="vt-content-editable">
+              <a class="image-wrapper" href="http://linkedin.com" data-rulegroup-id="undefined"
+              data-segment-id="undefined">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca834aa1d4e/icon-in.png"
+                alt="placeholder" class="fr-dib" width="29" height="29" data-constrain="1">
+              </a>
+            </li>
+            <li class="vt-content-editable">
+              <a class="image-wrapper" href="http://twitter.com" data-rulegroup-id="undefined"
+              data-segment-id="undefined">
+                <img src="https://ss-lp-uploads.s3.amazonaws.com/c/308457354/landingPage/5aca8355c1b11/icon-twitter.png"
+                alt="placeholder" class="fr-dib btn-align-none" width="29" height="29"
+                data-constrain="1">
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
