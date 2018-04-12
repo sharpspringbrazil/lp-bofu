@@ -37,8 +37,8 @@ data-item-sortable-id="0">
           <p class="vt-content-editable">
           </p>
           <p class="vt-content-editable">
-            <span class="subhead vt-content-editable" data-rulegroup-id="569346"
-            data-segment-id="default" style="display: block; color: rgb(239, 239, 239);">Assista abaixo: Como conseguir os melhores resultados com o Inbound
+            <span class="subhead vt-content-editable" data-rulegroup-id="569346" data-segment-id="default"
+            style="display: block; color: rgb(239, 239, 239);">Assista abaixo: Como conseguir os melhores resultados com o Inbound
               Marketing &nbsp;</span>
           </p>
           <p></p>
@@ -50,32 +50,20 @@ data-item-sortable-id="0">
           </p>
         </div>
       </div>
-      <div class="col-md-5 formcol" style="z-index:9999;">
-        <div class="inner-col">
-          <div class="white-background formposition ss-form form-email" style="min-height: 463px;">
-
-
-
-
-
-            <p class="vt-content-editable form-heading text-align-center">
-              <span style="font-size: 22px; color: rgb(243, 121, 52);">Fale com um especialista</span>
-            </p>
-
-
-
-
-
-            <br>
-            <br>
+      <div class="col-md-3 col-sm-6 col-sm-offset-1 text-center inner-col">
+        <div class="white-background">
+          <br>
+          <p class="vt-content-editable form-heading text-align-center">
+            <span style="font-size: 22px; color: rgb(243, 121, 52);">Fale com um especialista</span>
+          </p>
+          <div class="ss-form form-email">
             <img src="//storage.googleapis.com/sharpspring-editor/stock/form-placeholder-ss.png"
-            alt="placeholder" class="fr-dib" width="285" height="285" data-constrain="1">
-            <br>
-            <br>
-            <p class="trust">
-              <img src="https://ss-lp-uploads.s3.amazonaws.com/314dd8c9-405f-412f-b5b8-1aeaf5f26035.png"
-              style="width: 20px;margin-right: 5px;">Estamos comprometidos em não compartilhas os seus dados.</p>
+            alt="placeholder" class="fr-dib">
           </div>
+          <p class="trust vt-content-editable">
+            <img src="https://ss-lp-uploads.s3.amazonaws.com/314dd8c9-405f-412f-b5b8-1aeaf5f26035.png"
+            style="width: 20px; margin-right: 5px;" class="">Estamos comprometidos em não compartilhas os seus dados.
+          </p>
         </div>
       </div>
     </div>
